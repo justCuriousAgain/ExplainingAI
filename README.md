@@ -10,22 +10,25 @@ Concepts or algorithms are hard to understand, many a times. Typically due unava
 
 Code-bases in this folder attempt to show such examples.
 
-
 - What it is not: UI, UX or HCI design
 - What it is: explain-ability via visualization
 - Application to: AI-ML, NLP, Research papers, Education, Dashboards, etc.
+
+
+## Why me?
+Love:
+- distiller like Chris Olah, 
+- Ikigai & Specific Knowledge
+- Teaching, classes 2 masses
+- beautiful graphics, 
+- Effective Altruism {AI Safety, Alignment problem}
 
 ## Principles
 
 Structuring Math explanations - by Grant Sanderson, https://www.youtube.com/watch?v=ojjzXyQCzso
 - Concrete before Abstract
   - Give examples first, then theory
-	- Be aware of abstractions:
-	
-		![Layers](./Manim/images/layers.png)
-		
-		![Layers Example](./Manim/images/layersexample.png)
-
+	- Be aware of abstractions
 - Topic choice > production quality.
 	- Content is king, how you produce it is secondary.
 	- Choose wisely, needs to be fresh
@@ -42,8 +45,7 @@ Structuring Math explanations - by Grant Sanderson, https://www.youtube.com/watc
 - Definitions not at the beginning
 
 ## References
-- Papers:
-  - https://visxai.io/
+- Articles:
   - https://distill.pub/
 	- https://explained.ai/
 - Groups:
@@ -79,12 +81,10 @@ Structuring Math explanations - by Grant Sanderson, https://www.youtube.com/watc
 
 		Thank you Oege Dijk for this awesome package.
 
-# LaTeX
+## LaTeX Sources
 LaTeX content is in the form for Beamer slides, which in turn can get compiled into presentation pdf as well as two-column course notes pdf.
 
 All tex sources and images have been open sourced as I have built them by referring to material from others, learnt from others, although I have added some of mine, I need to give it back!!
-
-Copyright (C) 2022 Yogesh H Kulkarni
 
 ## Steps for LaTeX source files to pdfs
 
@@ -130,7 +130,7 @@ Copyright (C) 2022 Yogesh H Kulkarni
  -->
 
 ## Disclaimer:
-* Author (yogeshkulkarni@yahoo.com) gives no guarantee of the correctness of the content. Notes have been built using lots of publicly available material. 
+* Author (firstnamelastname at yahoo dot com) gives no guarantee of the correctness of the content. Notes have been built using lots of publicly available material. 
 * Although care has been taken to cite the original sources as much as possible, but there could be some missing ones. Do point them and I will update wherever possible. 
 * Lots of improvements are still to be made. So, don’t depend on it at all, fully. 
 * Do send in your suggestions/comments/corrections/Pull-requests.
