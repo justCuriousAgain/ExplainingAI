@@ -45,15 +45,27 @@ Structuring Math explanations - by Grant Sanderson, https://www.youtube.com/watc
 - Definitions not at the beginning
 
 ## References
-- Articles:
+- Articles (Post summary on LinkedIn, content in .tex):
   - https://distill.pub/
 	- https://explained.ai/
+	- https://visxai.io/
+
 - Groups:
   - https://research.google/teams/brain/pair/
   - [Explainable AI + VIS](http://vis.cse.ust.hk/groups/xai-vis/)
-- Conferences:
-	- [Visualization for AI Explainability](https://visxai.io/)
+
+- Tutorials
+	- [Explainable AI - YouTube](https://www.youtube.com/playlist?list=PLV8yxwGOxvvovp-j6ztxhF3QcKXT6vORU)
+	- [Explainable AI: Why visualizing neural networks is important – TechTalks](https://bdtechtalks.com/2019/03/11/openai-google-neural-networks-visualization/)
+	- [Visualizing AI. Deconstructing and Optimizing the SHAP… | by Wai On | Towards Data Science](https://towardsdatascience.com/visualizing-ai-8fad4ea70b87)
+	- [How to make clustering explainable? | by Shuyang Xiang | Medium](https://medium.com/@vanillaxiangshuyang/how-to-make-clustering-explainable-1582390476cc)
+	
 - Libraries
+	- [What-If Tool](https://pair-code.github.io/what-if-tool/)
+	- [Facets - Visualizations for ML datasets](https://pair-code.github.io/facets/)
+	- [A Neural Network Playground](http://playground.tensorflow.org/)
+	- [Embedding projector - visualization of high-dimensional data](https://projector.tensorflow.org/)
+	- [Captum · Model Interpretability for PyTorch](https://captum.ai/)
 	- Explainer Dashboard [Link](https://www.linkedin.com/posts/greg-coquillo_datascience-machinelearning-artificialintelligence-activity-6878763723788566528-dqsE)
 
 		Quickly build Explainable AI Dashboards that show the inner workings of so-called "blackbox" machine learning models!
