@@ -1,2 +1,2 @@
 @echo off
-for /r %%i in (Main_Link*.tex) do texify -cp %%i
+for /r %%i in (Main_Seminar*.tex) do texify -cp %%i

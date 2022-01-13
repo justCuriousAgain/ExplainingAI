@@ -14,13 +14,14 @@ Code-bases in this folder attempt to show such examples.
 - What it is: explain-ability via visualization
 - Application to: AI-ML, NLP, Research papers, Education, Dashboards, etc.
 
+Ultimate goal is to be like : [Eli5: Explain Like I'm Five | Don't Panic!] (https://www.reddit.com/r/explainlikeimfive/)
 
 ## Why me?
 Love:
-- distiller like Chris Olah, 
+- Distiller like Chris Olah, 
 - Ikigai & Specific Knowledge
 - Teaching, classes 2 masses
-- beautiful graphics, 
+- Beautiful graphics, Animate 
 - Effective Altruism {AI Safety, Alignment problem}
 
 ## Principles
@@ -44,21 +45,19 @@ Structuring Math explanations - by Grant Sanderson, https://www.youtube.com/watc
 	- Slow/Fast? Don't follow others as is
 - Definitions not at the beginning
 
-## References
+## To Dos
 - Articles (Post summary on LinkedIn, content in .tex):
   - https://distill.pub/
 	- https://explained.ai/
 	- https://visxai.io/
 
-- Groups:
-  - https://research.google/teams/brain/pair/
-  - [Explainable AI + VIS](http://vis.cse.ust.hk/groups/xai-vis/)
-
 - Tutorials
+	- [PyData NYC 2018: Introduction to Model Interpretability](https://github.com/klemag/pydata_nyc2018-intro-to-model-interpretability)
 	- [Explainable AI - YouTube](https://www.youtube.com/playlist?list=PLV8yxwGOxvvovp-j6ztxhF3QcKXT6vORU)
 	- [Explainable AI: Why visualizing neural networks is important – TechTalks](https://bdtechtalks.com/2019/03/11/openai-google-neural-networks-visualization/)
 	- [Visualizing AI. Deconstructing and Optimizing the SHAP… | by Wai On | Towards Data Science](https://towardsdatascience.com/visualizing-ai-8fad4ea70b87)
 	- [How to make clustering explainable? | by Shuyang Xiang | Medium](https://medium.com/@vanillaxiangshuyang/how-to-make-clustering-explainable-1582390476cc)
+	- [Book: Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 	
 - Libraries
 	- [What-If Tool](https://pair-code.github.io/what-if-tool/)
@@ -92,7 +91,12 @@ Structuring Math explanations - by Grant Sanderson, https://www.youtube.com/watc
 		Hope you find this very useful and increase X-AI launch speed for your use cases!
 
 		Thank you Oege Dijk for this awesome package.
-
+		
+- Follow groups:
+  - https://research.google/teams/brain/pair/
+  - http://vis.cse.ust.hk/groups/xai-vis/
+	- https://users.cs.duke.edu/~cynthia/lab.html
+	
 ## LaTeX Sources
 LaTeX content is in the form for Beamer slides, which in turn can get compiled into presentation pdf as well as two-column course notes pdf.
 
@@ -140,6 +144,9 @@ All tex sources and images have been open sourced as I have built them by referr
     * Open Data Science Masters http://datasciencemasters.org/
     * GeekForGeeks https://www.youtube.com/watch?v=v4cd1O4zkGw
  -->
+ 
+ 
+
 
 ## Disclaimer:
 * Author (firstnamelastname at yahoo dot com) gives no guarantee of the correctness of the content. Notes have been built using lots of publicly available material. 
