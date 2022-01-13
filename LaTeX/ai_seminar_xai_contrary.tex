@@ -76,11 +76,27 @@ Why XAI is flawed?
 
 People love black boxes \ldots
 
-\begin{itemize}
-\item Companies can make money
-\item Researchers do not have to put efforts in thoughtful and expensive feature engineering
-\end{itemize}
+\begin{columns}
+    \begin{column}[T]{0.6\linewidth}
+		
+			\begin{itemize}
+			\item Companies can make money
+			\item Researchers do not have to put efforts in thoughtful and expensive feature engineering
+			\item Linear approximation of the black-box (ie $f(x)$, the unknown function), may show a different feature ('race') to be the cause than the actual ones ('age' and 'past crimes') for deciding, say, parole.
+			\end{itemize}
+						
+    \end{column}
+    \begin{column}[T]{0.4\linewidth}
 
-Bottom-line: Teach, build and use interpretable ML models than black-box Deep Learning mdoels.
+      \begin{center}
+      \includegraphics[width=0.8\linewidth,keepaspectratio]{xai30}
+	  	\end{center}
+    \end{column}
+  \end{columns}
+	
+	
+
+
+Bottom-line: Teach, build and use interpretable ML models than black-box Deep Learning models.
 
 \end{frame}
