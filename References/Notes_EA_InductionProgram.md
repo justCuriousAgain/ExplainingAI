@@ -3,6 +3,7 @@
 Moderator: Pratik Agarwal
 
 Week 1: 5 Jan 2022
+
 	* Doing Good Better - Introduction through Chapter 3
 		* merry-go-round play water pump, tank walls for advertisement (now dubbed as 1st world solution for 3rd world problem. Hand pump was better)
 		* became the center of a massive marketing campaign (Saw video, one guy did PhD on how this Solution failed)
@@ -18,6 +19,7 @@ Week 1: 5 Jan 2022
 		* De-worming (intestinal) helped as it reduced absenteeism. Cost-effective.
 
 Week 2: 12 Jan 2022
+
 	* Doing Good Better - Chapters 4 - 6 
 		* Diminishing returns also provides a powerful argument for focusing your altruistic efforts on people in poor countries rather than those in rich countries.
 		* do far more good working in a poor country than in a rich one. 100x multiplier.
@@ -25,9 +27,11 @@ Week 2: 12 Jan 2022
 		* If you don't become doctor, someone else will. Unless you are dramatically better than whoever will take the position, its better to earn in developed country and give to developing country. rather than trying to maximize the direct impact you have with your job, you instead try to increase your earnings so you can donate more, improving people’s lives through your giving rather than your day-to-day work.
 		* Thinking explicitly about expected value is important because humans are often terrible at assessing low-probability high-value events.
 		* We just need to assess the chances of success and how good success would be if it happened.
+		
 	* One World Now Excerpt - Pages 174-178
 		* Victims (and non victims) got paid extravagantly during WTC collapse crisis
 		* Helping only own people is harming in directing help to the real needy
+		
 	* Exercise: Generating quantitative estimates and comparing outcomes
 		* Part 1 - estimate your likely total future income
 				* Profession: Teacher  till 60. Income ~ 1.25L per month
@@ -38,6 +42,7 @@ Week 2: 12 Jan 2022
 							* Currently donating 10k/y to blind-girls-school. This serves 1 student for all educational expenses.
 
 Week 3: 19 Jan 2022
+
 	* Radical Empathy - Open Philanthropy Project
 	* Moral Progress and Cause X
 	* All Animals Are Equal
