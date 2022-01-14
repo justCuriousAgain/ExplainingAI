@@ -2,7 +2,7 @@
 
 Moderator: Pratik Agarwal
 
-Week 1: 5 Jan 2022
+- Week 1: 5 Jan 2022
 	- Doing good Better - Introduction through Chapter 3
 		- merry-go-round play water pump, tank walls for advertisement (now dubbed as 1st world solution for 3rd world problem. Hand pump was better)
 		- became the center of a massive marketing campaign (Saw video, one guy did PhD on how this Solution failed)
@@ -16,7 +16,7 @@ Week 1: 5 Jan 2022
 		- Found that seemingly obvious programs to improve education just weren’t working. 
 		- De-worming (intestinal) helped as it reduced absenteeism. Cost-effective.
 
-Week 2: 12 Jan 2022
+- Week 2: 12 Jan 2022
 	- Doing Good Better - Chapters 4 - 6 
 		- Diminishing returns also provides a powerful argument for focusing your altruistic efforts on people in poor countries rather than those in rich countries.
 		- do far more good working in a poor country than in a rich one. 100x multiplier.
@@ -36,7 +36,7 @@ Week 2: 12 Jan 2022
 				- 2b: which charity would you donate to to do the most good? 
 							- Currently donating 10k/y to blind-girls-school. This serves 1 student for all educational expenses.
 
-Week 3: 19 Jan 2022
+- Week 3: 19 Jan 2022
 	- Radical Empathy - Open Philanthropy Project
 	- Moral Progress and Cause X
 	- All Animals Are Equal
