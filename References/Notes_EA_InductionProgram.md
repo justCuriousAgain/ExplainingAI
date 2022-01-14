@@ -36,4 +36,15 @@ maximize the direct impact you have with your job, you instead try to increase y
 				- Profession: Teacher  till 60. Income ~ 1.25L per month
 		- Part 2 - what could you achieve with your income?
 				- 2a: what you could achieve if you donated 10% of your lifetime income to one of these charities
+							- 12k/m or 1.5L/year can be used in donating to charities. 
 				- 2b: which charity would you donate to to do the most good? 
+							- Currently donating 10k/y to blind-girls-school. This serves 1 student for all educational expenses.
+
+Week 3: 19 Jan 2022
+	- Radical Empathy - Open Philanthropy Project
+	- Moral Progress and Cause X
+	- All Animals Are Equal
+	- Exercise: Generating quantitative estimates and comparing outcomes
+		- Part 1 - A letter to the past
+		- Part 2 - A letter from your future self
+		- Part 3 - Moral decision making [To be done in session] 
