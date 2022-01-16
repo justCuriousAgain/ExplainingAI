@@ -38,8 +38,15 @@ Moderator: Pratik Agarwal
 
 - Week 3: 19 Jan 2022
 	- Radical Empathy - Open Philanthropy Project
+		- US donors strongly prioritize people in their own country compared to people in the rest of the world.
+		- Main question: “Who deserves empathy and moral concern?”
+		- Answer: aspire to radical empathy: working hard to extend empathy to everyone it should be extended to, even when it is unusual or seems strange to do so.
+		- {Yogesh} वसुधैव कुटुम्बकम्" (World is my family) अयं निजः परो वेति गणना लघुचेतसाम् । उदारचरितानां तु वसुधैव कुटुम्बकम् ॥ (महोपनिषद्, अध्याय ४, श्‍लोक ७१)
 	- Moral Progress and Cause X
+		- We still haven't figured all the moral problems yet, right from Aristotle. 
+		- Need to find that root Cause ('X') via Effective Altruism.
 	- All Animals Are Equal
+		- Thomas Taylor's analogy if humans are equal amongst themselves (men and women) then why not animals too?
 	- Exercise: Generating quantitative estimates and comparing outcomes
 		- Part 1 - A letter to the past
 		- Part 2 - A letter from your future self
